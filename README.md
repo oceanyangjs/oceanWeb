@@ -1,3 +1,3 @@
 # oceanWeb
-spring sprintMVC mybatis maven
+spring springMVC mybatis maven
 个人网站项目
